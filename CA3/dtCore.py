@@ -37,7 +37,6 @@ class DecisionTreeScratch:
                 right_mask = X[:, feat] > thresh
                 left_y, right_y = y[left_mask], y[right_mask]
 
-                # skip invalid splits
                 if len(left_y) < self.min_samples_leaf or len(right_y) < self.min_samples_leaf:
                     continue
 
