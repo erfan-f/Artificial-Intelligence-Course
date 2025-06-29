@@ -18,8 +18,6 @@ Apply supervised learning techniques such as decision trees, k-NN, or SVM on a r
 Design and train a neural network for classification or regression tasks, focusing on the implementation of feedforward and backpropagation algorithms.
 
 ### CA5 – Clustering
-Explore unsupervised learning methods by applying clustering algorithms such as K-Means, DBSCAN, or Hierarchical Clustering.
-
---
+Explore unsupervised learning methods by applying clustering algorithms such as K-Means, DBSCAN, or Hierarchical Clustering
 
 - [Erfan Falahati](https://github.com/erfan-f)
